@@ -1,0 +1,20 @@
+{
+  "name": "react-render-if-truthy",
+  "version": "0.0.1",
+  "description": "A JSX utility for conditionally returning virtual DOM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel-tape-runner ./test/*.test.js | faucet"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "JC",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-tape-runner": "^1.2.0",
+    "faucet": "0.0.1",
+    "tape": "^4.2.0"
+  }
+}
