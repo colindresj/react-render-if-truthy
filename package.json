@@ -2,6 +2,10 @@
   "name": "react-render-if-truthy",
   "version": "0.0.1",
   "description": "A JSX utility for conditionally returning virtual DOM.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colindresj/react-render-if-truthy.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "babel-tape-runner ./test/*.test.js | faucet"
