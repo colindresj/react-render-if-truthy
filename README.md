@@ -1,4 +1,5 @@
 #react-render-if-truthy
+[![Build Status](https://travis-ci.org/colindresj/react-render-if-truthy.svg?branch=master)](https://travis-ci.org/colindresj/react-render-if-truthy)
 
 A JSX-specific util for rendering a component if some data value is truthy. An
 unlimited number of arguments may be passed, with the last argument always
